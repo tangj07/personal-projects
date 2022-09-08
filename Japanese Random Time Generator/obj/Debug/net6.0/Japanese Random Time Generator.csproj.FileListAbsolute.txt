@@ -1,0 +1,15 @@
+C:\Users\jessi\source\repos\Japanese Random Time Generator\bin\Debug\net6.0\Japanese Random Time Generator.exe
+C:\Users\jessi\source\repos\Japanese Random Time Generator\bin\Debug\net6.0\Japanese Random Time Generator.deps.json
+C:\Users\jessi\source\repos\Japanese Random Time Generator\bin\Debug\net6.0\Japanese Random Time Generator.runtimeconfig.json
+C:\Users\jessi\source\repos\Japanese Random Time Generator\bin\Debug\net6.0\Japanese Random Time Generator.dll
+C:\Users\jessi\source\repos\Japanese Random Time Generator\bin\Debug\net6.0\Japanese Random Time Generator.pdb
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\Japanese Random Time Generator.csproj.AssemblyReference.cache
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\Japanese Random Time Generator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\Japanese Random Time Generator.AssemblyInfoInputs.cache
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\Japanese Random Time Generator.AssemblyInfo.cs
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\Japanese Random Time Generator.csproj.CoreCompileInputs.cache
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\Japanese Random Time Generator.dll
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\refint\Japanese Random Time Generator.dll
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\Japanese Random Time Generator.pdb
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\Japanese Random Time Generator.genruntimeconfig.cache
+C:\Users\jessi\source\repos\Japanese Random Time Generator\obj\Debug\net6.0\ref\Japanese Random Time Generator.dll
